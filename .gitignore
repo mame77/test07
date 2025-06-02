@@ -4,4 +4,8 @@
 # 依存ライブラリ
 node_modules/
 
+/backend/prisma/
 
+/backend/venv/
+
+*.env
