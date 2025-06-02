@@ -1,11 +1,11 @@
-# Next.js ビルド成果物
+#githubで共有するな！お前らはゴミだ！！！！！！！！
 .next/
 
-# 依存ライブラリ
 node_modules/
+
+/backend/venv/
 
 /backend/prisma/
 
-/backend/venv/
 
 *.env
