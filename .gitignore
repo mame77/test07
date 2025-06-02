@@ -1,11 +1,12 @@
 #githubで共有するな！お前らはゴミだ！！！！！！！！
 .next/
 
-node_modules/
+/backend/node_modules/
 
-/backend/venv/
+/backend/.venv/
 
 /backend/prisma/
 
-
 *.env
+/frontend/node_modules/
+/backend/app/generated/

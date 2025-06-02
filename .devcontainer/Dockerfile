@@ -1,4 +1,6 @@
 FROM mcr.microsoft.com/devcontainers/javascript-node:1-22-bookworm
+RUN apt-get update && \
+    apt-get install -y python3 python3-pip python3-venv
 
 # [Optional] Uncomment this section to install additional OS packages.
 # RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
